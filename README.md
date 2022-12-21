@@ -5,5 +5,5 @@
 ### Kullanılan Teknolojiler
 
 - ASPNET
--Bootstrap
-    -
+- Bootstrap
+
